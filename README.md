@@ -1,6 +1,6 @@
 # Habit-Goal-Tracker-App
 Habit &amp; Goal Tracker-App
-# 🧠 Habit Tracker – Next.js + TypeScript
+# 🧠 Habit Tracker Next.js + TypeScript
 
 Ein moderner Habit Tracker, gebaut mit **Next.js 14**, **TypeScript** und React Context als globales State-Management.  
 Die App ermöglicht es, persönliche Gewohnheiten (Habits) hinzuzufügen, zu bearbeiten, zu löschen und den Fortschritt im Auge zu behalten alles auf einer Seite, ohne Seitenwechsel.
